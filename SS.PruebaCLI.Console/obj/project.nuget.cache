@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2KFpW4KuwFs7Utk5Tuu3WgbLHM/zZG2xO3h11eiEXQQRLwSOpw/u2oAgg41rEz4oTVMM01p2Cj/vksUZeW6cTQ==",
+  "success": true,
+  "projectFilePath": "/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Console/SS.PruebaCLI.Console.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidmeza/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/davidmeza/.nuget/packages/phantomjs/2.1.1/phantomjs.2.1.1.nupkg.sha512",
+    "/Users/davidmeza/.nuget/packages/selenium.support/4.20.0/selenium.support.4.20.0.nupkg.sha512",
+    "/Users/davidmeza/.nuget/packages/selenium.webdriver/4.20.0/selenium.webdriver.4.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}

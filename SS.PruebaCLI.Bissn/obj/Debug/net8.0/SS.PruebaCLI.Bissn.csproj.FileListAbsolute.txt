@@ -1,0 +1,15 @@
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/bin/Debug/net8.0/SS.PruebaCLI.Bissn.deps.json
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/bin/Debug/net8.0/SS.PruebaCLI.Bissn.dll
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/bin/Debug/net8.0/SS.PruebaCLI.Bissn.pdb
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/obj/Debug/net8.0/SS.PruebaCLI.Bissn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/obj/Debug/net8.0/SS.PruebaCLI.Bissn.AssemblyInfoInputs.cache
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/obj/Debug/net8.0/SS.PruebaCLI.Bissn.AssemblyInfo.cs
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/obj/Debug/net8.0/SS.PruebaCLI.Bissn.csproj.CoreCompileInputs.cache
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/obj/Debug/net8.0/SS.PruebaCLI.Bissn.dll
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/obj/Debug/net8.0/refint/SS.PruebaCLI.Bissn.dll
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/obj/Debug/net8.0/SS.PruebaCLI.Bissn.pdb
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/obj/Debug/net8.0/ref/SS.PruebaCLI.Bissn.dll
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/bin/Debug/net8.0/selenium-manager/linux/selenium-manager
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/bin/Debug/net8.0/selenium-manager/macos/selenium-manager
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/bin/Debug/net8.0/selenium-manager/windows/selenium-manager.exe
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/obj/Debug/net8.0/SS.PruebaCLI.Bissn.csproj.AssemblyReference.cache
