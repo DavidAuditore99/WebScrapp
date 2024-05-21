@@ -11,3 +11,5 @@ Console.WriteLine(driver.Title);
 driver.Quit();
 
 var i = 1;
+
+var j = 2;
