@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SS.PruebaCLI.Bissn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41d052dde298ab3ecdc9eb718a6c4c5eae55d07b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SS.PruebaCLI.Bissn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SS.PruebaCLI.Bissn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
