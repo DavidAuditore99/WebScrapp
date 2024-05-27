@@ -13,3 +13,4 @@
 /Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/bin/Debug/net8.0/selenium-manager/macos/selenium-manager
 /Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/bin/Debug/net8.0/selenium-manager/windows/selenium-manager.exe
 /Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/obj/Debug/net8.0/SS.PruebaCLI.Bissn.csproj.AssemblyReference.cache
+/Users/davidmeza/Documents/C#/PruebaCLI/SS.PruebaCLI.Bissn/obj/Debug/net8.0/SS.PruebaCLI.Bissn.sourcelink.json

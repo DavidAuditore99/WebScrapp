@@ -1,15 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-using OpenQA.Selenium.Edge;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using SS.PruebaCLI.Bissn;
+﻿using SS.PruebaCLI.Bissn;
 
-EdgeDriver driver = new EdgeDriver();
-driver.Url = "https://www.google.com.mx";
-driver.FindElement(By.Name("q")).SendKeys("webdriver" + Keys.Return);
-Console.WriteLine(driver.Title);
-driver.Quit();
+int[] nums = [2,7,11,15];
+int target = 9;
 
-var i = 1;
+Class1 c1 = new Class1();
 
-var j = 3;
+foreach(int num in c1.getSumIndex(nums,target)){
+    Console.Write(num); 
+}
